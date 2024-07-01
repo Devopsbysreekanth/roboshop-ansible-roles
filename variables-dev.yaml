@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb-dev. devopsbysreekanth.online  # submit your host
-REDIS_HOST: redis-dev. devopsbysreekanth.online 
-MYSQL_HOST: mysql-dev. devopsbysreekanth.online 
-RABBITMQ_HOST: rabbitmq-dev. devopsbysreekanth.online 
-CATALOGUE_HOST: catalogue-dev. devopsbysreekanth.online 
-USER_HOST: user-dev. devopsbysreekanth.online 
-CART_HOST: cart-dev. devopsbysreekanth.online 
-SHIPPING_HOST: shipping-dev. devopsbysreekanth.online 
-PAYMENT_HOST: payment-dev. devopsbysreekanth.online 
-DISPATCH_HOST: dispatch-dev. devopsbysreekanth.online 
+MONGODB_HOST: mongodb-dev.devopsbysreekanth.online  # submit your host
+REDIS_HOST: redis-dev.devopsbysreekanth.online 
+MYSQL_HOST: mysql-dev.devopsbysreekanth.online 
+RABBITMQ_HOST: rabbitmq-dev.devopsbysreekanth.online 
+CATALOGUE_HOST: catalogue-dev.devopsbysreekanth.online 
+USER_HOST: user-dev.devopsbysreekanth.online 
+CART_HOST: cart-dev.devopsbysreekanth.online 
+SHIPPING_HOST: shipping-dev.devopsbysreekanth.online 
+PAYMENT_HOST: payment-dev.devopsbysreekanth.online 
+DISPATCH_HOST: dispatch-dev.devopsbysreekanth.online 
